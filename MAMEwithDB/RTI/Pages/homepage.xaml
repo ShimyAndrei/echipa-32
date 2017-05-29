@@ -1,0 +1,41 @@
+﻿<mui:ModernWindow x:Class="RTI.Pages.homepage"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  mc:Ignorable="d" 
+                  SizeToContent="WidthAndHeight" ResizeMode="NoResize"
+                  d:DesignHeight="800" d:DesignWidth="1500"
+                  Title="M.A.M.E" Closed="ModernWindow_Closed" Loaded="ModernWindow_Loaded"
+                  Style="{StaticResource BlankWindow}">
+    <Grid Style="{StaticResource ContentRoot}">
+        <ScrollViewer Margin="10">
+
+            <StackPanel MinWidth="200">
+                <Grid Height="415" Width="722">
+
+                    <Button Content="Furnizare statistici" Margin="10,0,512,368"/>
+                    <Button Content="Adaugare Beneficiar" Click="add_click" Margin="477,0,45,368"/>
+
+                    <TextBlock Text="Introdu Numele:" Style="{StaticResource Heading2}" Margin="268,78,269,313" />
+
+                    <TextBox x:Name="lastnamebox" GotFocus="searchbox_GotFocus" Text="Nume beneficiar" Margin="177,107,363,274"/>
+                    <TextBox x:Name="firstnamebox" GotFocus="searchbox_GotFocus" Text="Prenume beneficiar" Margin="364,107,176,274"/>
+                    <Button x:Name="searchbtn" Click="searchbtn_Click" Content="Cautare" Margin="242,168,242,206"/>
+                    <CheckBox x:Name="personaldatacheck" Checked="options_CheckedChanged" Content="Date personale" Height="50" Margin="69,214,522,151"   />
+                    <CheckBox x:Name="infocazcheck" Checked="options_CheckedChanged" Content="Informatii caz" Height="50" Margin="477,214,119,151" />
+                    <CheckBox x:Name="contactdatacheck" Checked="options_CheckedChanged" Content="Date de contanct" Height="50" Margin="69,278,512,87" />
+                    <CheckBox x:Name="infotutorheck" Checked="options_CheckedChanged" Content="Informatii tutori" Height="50" Margin="477,278,86,87"  />
+                    <CheckBox x:Name="allcheck" Checked="allcheck_CheckedChanged" Content="Selectati tot"  Height="50" Width="100" Margin="311,341,311,24"/>
+
+                </Grid>
+
+
+
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+
+</mui:ModernWindow>

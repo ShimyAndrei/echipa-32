@@ -1,0 +1,101 @@
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\RTI.exe.config
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\RTI.exe
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\RTI.pdb
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\RTI.csprojResolveAssemblyReference.cache
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\MainWindow.baml
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\Settings\About.baml
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\Settings\Appearance.baml
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\Home.baml
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\SettingsPage.baml
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\App.baml
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\MainWindow.g.cs
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\Settings\About.g.cs
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\Settings\Appearance.g.cs
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\Home.g.cs
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\App.g.cs
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\RTI_Content.g.cs
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\RTI_MarkupCompile.cache
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\RTI.g.resources
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\RTI.exe
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\RTI.pdb
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\Emp_Login.mdf
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\Emp_Login_log.ldf
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\RTI.exe.manifest
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\RTI.application
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\landing.baml
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\Pages\landing.g.cs
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\RTI.exe.manifest
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\obj\Debug\RTI.application
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\mamedb.mdf
+C:\Users\ddoca\Desktop\Dev\Mui-SaveSettings-Demo-master\Mui-SaveSettings-Demo-master\RTI\bin\Debug\mamedb_log.ldf
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\mamedb.mdf
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\mamedb_log.ldf
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\RTI.exe.config
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\RTI.exe.manifest
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\RTI.application
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\RTI.exe
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\RTI.pdb
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\RTI.csprojResolveAssemblyReference.cache
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\MainWindow.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\landing.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\SettingsPage.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\Settings\About.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\Settings\Appearance.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\App.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\MainWindow.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\landing.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\Settings\About.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\Settings\Appearance.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\App.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\RTI_Content.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\RTI_MarkupCompile.cache
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\RTI.g.resources
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\RTI.exe.manifest
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\RTI.application
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\RTI.exe
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\RTI.pdb
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\add.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\add.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\bin\Debug\RTI.exe.config
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\RTI.exe
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\RTI.pdb
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\bin\Debug\RTI.exe.manifest
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\bin\Debug\RTI.application
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\bin\Debug\RTI.exe
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\bin\Debug\RTI.pdb
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\RTI.csprojResolveAssemblyReference.cache
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\MainWindow.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\add.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\landing.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\SettingsPage.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\Settings\About.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\Settings\Appearance.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\App.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\MainWindow.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\add.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\landing.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\Settings\About.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\Settings\Appearance.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\App.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\RTI_Content.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\RTI_MarkupCompile.cache
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\RTI.g.resources
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\RTI.exe.manifest
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\RTI.application
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\results.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\results.g.cs
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\homepage.baml
+C:\Users\ddoca\Desktop\Dev\MAMEwithDB\RTI\obj\Debug\Pages\homepage.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\homepage.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\results.baml
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\homepage.g.cs
+C:\Users\Dan Doca\Source\Repos\MAMEwithDB\RTI\obj\Debug\Pages\results.g.cs

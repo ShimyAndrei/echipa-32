@@ -1,0 +1,117 @@
+﻿<mui:ModernWindow x:Class="RTI.Pages.add"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  mc:Ignorable="d" 
+                  SizeToContent="WidthAndHeight" ResizeMode="NoResize"
+                  d:DesignHeight="800" d:DesignWidth="1500"
+                  Title="Adaugare Beneficiar" Closed="ModernWindow_Closed" Loaded="ModernWindow_Loaded"
+                  >
+    <ScrollViewer Margin="0,0,4,-28">
+        <StackPanel Height="785" Width="1480">
+            <Grid Width="Auto" Height="760">
+
+                <TextBlock Text="Tip Caz:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="44,126,1236,604" />
+
+                <CheckBox x:Name="medical" Content="medical" Width="75" Height="30" Margin="456,123,949,607"/>
+                <CheckBox x:Name="social" Content="social" Width="75" Height="30" Margin="397,123,1008,607"  />
+                <CheckBox x:Name="activ" Content="activ" Width="75" Height="30" Margin="262,123,1143,607"  />
+                <CheckBox x:Name="inchis" Content="inchis" Width="75" Height="30" Margin="337,123,1068,607" />
+
+                <TextBlock Text="Date Personale:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="44,22,1236,708" />
+
+                <TextBox x:Name="bfirstname" GotFocus="searchbox_GotFocus" Text="Nume" Width="200" Height="30" Margin="44,57,1236,673" />
+                <TextBox x:Name="blastname" GotFocus="searchbox_GotFocus" Text="Prenume" Width="200" Height="30" Margin="262,57,1018,673"/>
+                <TextBox x:Name="bcnp" GotFocus="searchbox_GotFocus" Text="CNP" Width="200" Height="30" Margin="44,91,1236,639"/>
+                <TextBox x:Name="bserieci" GotFocus="searchbox_GotFocus" Text="Serie CI" Height="30" Margin="262,91,1143,639"/>
+                <TextBox x:Name="bnumarci" GotFocus="searchbox_GotFocus" Text="Numar CI" Height="30" Margin="342,91,1018,639"/>
+                <TextBox x:Name="bcity" GotFocus="searchbox_GotFocus" Text="Oras/Localitate" Width="200" Height="30" Margin="44,349,1236,381"/>
+                <TextBox x:Name="bregion" GotFocus="searchbox_GotFocus" Text="Judet/Sector" Width="200" Height="30" Margin="44,384,1236,346"/>
+
+
+                <TextBox x:Name="street" GotFocus="searchbox_GotFocus" Text="Strada" Margin="262,384,918,346"/>
+                <TextBox x:Name="block" GotFocus="searchbox_GotFocus" Text="Bloc" Width="40" Height="30"  Margin="262,350,1178,380"/>
+                <TextBox x:Name="number" GotFocus="searchbox_GotFocus" Text="Nr"  Width="40" Height="30" Margin="307,350,1133,380"/>
+                <TextBox x:Name="apartment" GotFocus="searchbox_GotFocus" Text="Ap"  Width="40" Height="30" Margin="352,350,1088,380"/>
+                <TextBox x:Name="entry" GotFocus="searchbox_GotFocus" Text="Sc" Width="40" Height="30"  Margin="397,350,1043,380"/>
+                <TextBox x:Name="floor" GotFocus="searchbox_GotFocus" Text="Et"  Width="40" Height="30" Margin="442,350,998,380"/>
+                <TextBox x:Name="postalcode" GotFocus="searchbox_GotFocus" Text="Cod Postal"  Width="75" Height="30" Margin="487,350,918,380"/>
+                <TextBox x:Name="iban" GotFocus="searchbox_GotFocus" Text="IBAN" Height="30" Width="200" Margin="44,420,1236,310"/>
+                <Button x:Name="corespondence" Content="Adauga adresa de corespondenta" Height="30" Width="300" Margin="262,420,918,310"/>
+
+
+                <TextBlock Text="Data Nasterii:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="44,175,1236,555" />
+                <DatePicker x:Name="bdata_nastere" Width="200" Height="30" Margin="262,175,1018,555"/>
+
+                <TextBlock Text="Adresa:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="44,314,1236,416" />
+
+
+
+                <TextBlock Text="Data solicitare sprijin:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="44,228,1236,502" />
+                <DatePicker Width="200" Height="30" Margin="262,227,1018,503"/>
+
+
+                <TextBox x:Name="caseinfo" GotFocus="searchbox_GotFocus" Text="Informatii caz inainte de solicitare" Margin="44,501,918,194"/>
+
+
+
+                <TextBlock Text="Informatii tutori:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="894,22,386,708" />
+
+                <TextBox x:Name="tutorfirstname" GotFocus="searchbox_GotFocus" Text="Nume" Width="200" Height="30" Margin="894,57,386,673" />
+                <TextBox x:Name="tutorlastname" GotFocus="searchbox_GotFocus" Text="Prenume" Width="200" Height="30" Margin="1098,57,182,673"/>
+                <TextBox x:Name="tutorcnp" GotFocus="searchbox_GotFocus" Text="CNP" Width="200" Height="30" Margin="894,91,386,639"/>
+                <TextBox x:Name="tutorserieci" GotFocus="searchbox_GotFocus" Text="Serie CI" Height="30" Margin="1098,91,307,639"/>
+                <TextBox x:Name="tutornumarci" GotFocus="searchbox_GotFocus" Text="Numar CI" Height="30" Margin="1178,91,182,639"/>
+                <TextBox x:Name="tutorphone" GotFocus="searchbox_GotFocus" Text="Numar de telefon" Width="200" Height="30" Margin="894,123,386,607"/>
+                <TextBox x:Name="tutormail" GotFocus="searchbox_GotFocus" Text="E-mail" Width="200" Height="30" Margin="1099,123,181,607"/>
+
+
+                <TextBlock Text="Data Nasterii:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="893,162,387,568" />
+                <DatePicker Width="200" Height="30" Margin="1098,162,182,568"/>
+
+                <TextBlock Text="Tip tutore:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="893,228,387,502" />
+                <ComboBox Height="30" Width="200" Margin="1098,228,182,502">
+                    <ComboBoxItem Content="Mama" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Tata" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Asistent Social" HorizontalAlignment="Left" Width="198"/>
+                </ComboBox>
+
+                <Button x:Name="tutoradd" Content="Adauga inca un tutore" Height="30" Width="405" Margin="894,263,181,467"/>
+                <TextBlock Text="Tip sprijin:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="894,314,386,416" />
+
+                <ComboBox Height="30" Width="200" Margin="1098,314,182,416">
+                    <ComboBoxItem Content="Psihoterapie" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Kinetoterapie" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Art-Terapie" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Consiliere medicala " HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Consiliere nutritionala" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Consiliere juridica" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Activitati active si sociale" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Sprijin material" HorizontalAlignment="Left" Width="198"/>
+                    <ComboBoxItem Content="Sprijin social" HorizontalAlignment="Left" Width="198"/>
+                </ComboBox>
+
+                <TextBlock Text="Data inceput beneficiu:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="894,349,386,381" />
+                <DatePicker Width="200" Height="30" Margin="1098,349,182,381"/>
+                <TextBlock Text="Data finalizare beneficiu:" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="894,384,386,346" />
+                <DatePicker Width="200" Height="30" Margin="1098,384,182,346"/>
+
+                <TextBlock Text="Costuri (RON):" Style="{StaticResource Heading2}" Width="200" Height="30" Margin="894,419,386,311" />
+                <TextBox x:Name="cost" GotFocus="searchbox_GotFocus" Text="Total" Width="200" Height="30" Margin="1098,420,182,310"/>
+
+                <Button x:Name="addbenefit" Content="Adauga alt beneficiu" Height="30" Width="405" Margin="894,455,182,275"/>
+                <TextBox x:Name="benefitinfo" GotFocus="searchbox_GotFocus" Text="Observatii" Margin="894,492,182,213"/>
+                <Button x:Name="save" Content="Salveaza" Click="save_click" Height="30" Width="405" Margin="903,694,172,36"/>
+
+
+
+
+
+            </Grid>
+        </StackPanel>
+    </ScrollViewer>
+
+
+</mui:ModernWindow>
